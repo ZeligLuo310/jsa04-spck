@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "title": "Tết ở làng địa ngục",
+        "genre": "Horror",
+        "released_date": "10/10/2023",
+        "actors": ["NVA", "NVB", "NVC"],
+        "duration": 111,
+        "director": "NVD",
+        "description": "lorem.....",
+        "image": "/image/abc.png"
+    },
+    {
+        "id": 2,
+        "title": "Kẻ ăn hồn",
+        "genre": "Horror",
+        "released_date": "11/11/2023",
+        "actors": ["NVE", "NVZ", "NVX"],
+        "duration": 123,
+        "director": "NVP",
+        "description": "lorem.....",
+        "image": "/image/xyz.png"
+    }
+]
